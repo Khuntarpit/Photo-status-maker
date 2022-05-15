@@ -7,7 +7,20 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  monospace;
+}
+
+.menuBrand {
+  color: #1c9484 !important;
+  font-weight: 600;
+  font-family: cursive;
+}
+
+.menuLink {
+  font-size: 15px !important;
+  font-weight: 600;
+  font-family: cursive;
 }
